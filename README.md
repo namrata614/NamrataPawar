@@ -10,7 +10,7 @@
 - Git | GitHub | Eclipse | VS Code
 
 ### 📌 Featured Project
-[Employee Management System](https://github.com/namratapawar/Employee-Management)
+[Employee Management System](https://github.com/namrata614/Employee-Management)
 
 ### 📫 Connect with me
 - ✉️ Email: namratapawar2403@gmail.com
